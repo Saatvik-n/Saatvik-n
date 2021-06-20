@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Saatvik Nargund, a software developer from Bangalore India. I'm fluent in Javascript, Typescript, Java, and Python. 
+Currently, I'm working in the web development field using ReactJS. I also know Node JS for backend
+
 <!--
 **Saatvik-n/Saatvik-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
